@@ -23,24 +23,6 @@
       "title": "Next.js13のappディレクトリについて",
       "content": "appディレクトリはデフォルトでサーバーサイドレンダリングを行います。",
       "createdAt": "2025-05-24T07:35:21.207Z"
-    },
-    {
-      "id": "てｓｔ",
-      "title": "てｓｔ",
-      "content": "てｓｔ",
-      "createdAt": "2025-05-24T07:37:14.563Z"
-    },
-    {
-      "id": "blog",
-      "title": "blog",
-      "content": "blog",
-      "createdAt": "2025-05-24T07:43:06.281Z"
-    },
-    {
-      "id": "Loading",
-      "title": "Loading",
-      "content": "Loading",
-      "createdAt": "2025-05-24T07:44:14.127Z"
     }
   ]
 }
