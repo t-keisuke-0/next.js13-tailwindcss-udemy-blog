@@ -11,6 +11,12 @@
             "title": "JSONサーバー",
             "content": "[!重要] ベータ版v1のドキュメントを閲覧中 – 使用可能ですが、互換性を破る変更が加えられる可能性があります。安定版については、こちらをご覧ください。👋こんにちは！React、Vue、Astro をお使いですか？私の新しいプロジェクトMistCSSをチェックして、コードを 50% 削減しましょう。",
             "createdAt": "2022/07/16"
+        },
+        {
+            "id": "sync-dynamic-apis-next.js13",
+            "title": "動的APIは非同期です",
+            "content": "動的 API は次のとおりです。ページ、レイアウト、メタデータ API、ルート ハンドラーに提供されるプロパティparamsとプロパティ。searchParams　cookies()、、draftMode()そしてheaders()からnext/headers　Next 15では、これらのAPIは非同期になりました。詳細については、Next.js 15アップグレードガイドをご覧ください。",
+            "createdAt": "2022/07/17"
         }
     ]
 }
